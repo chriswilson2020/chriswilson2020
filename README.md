@@ -19,3 +19,8 @@ Here are some ideas to get you started:
 | ------------- | ------------- |
 
 
+🔭 I’m currently working on a light weight JSON library aimed at embedded systems. 
+🌱 I’m currently learning C (again I learned C in the late 90s but I forgot more than I learned in the interim).
+💬 Ask me about the strategic applicaiton of AI in the health and medtech sectors.
+📫 How to reach me: chris@listerdale.nl
+😄 Pronouns: He / Him
