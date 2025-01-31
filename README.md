@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![ChrisWilson2020's GitHub stats](https://github-readme-stats.vercel.app/api?username=chriswilson2020)](https://github.com/anuraghazra/github-readme-stats)
+| [![ChrisWilson2020's GitHub stats](https://github-readme-stats.vercel.app/api?username=chriswilson2020)](https://github.com/anuraghazra/github-readme-stats) |  ![chriswilson2020's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chriswilson2020&theme=tokyonight&show_icons=true&hide_border=true&layout=compact) |
+| ------------- | ------------- |
+
+
